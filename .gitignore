@@ -1,4 +1,7 @@
 
+# Ignore all icons, except those that are manually added
+icons/
+
 # Created by https://www.gitignore.io/api/python
 
 ### Python ###
