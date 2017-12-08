@@ -19,6 +19,10 @@ hotstrings = {
     "/hah": "hahahahahaha",
     "/lmgtfy": "http://lmgtfy.com/?q=",
 
+    # ASCII Emoji
+    "/shrug": "¯\_(ツ)_/¯",
+    "/smile": "ಠ‿ಠ",
+
     # Functions
     "/date": dt.now().strftime("%d/%m/%Y"),
     "/time": dt.now().strftime("%I:%M %p"),
